@@ -50,3 +50,15 @@ h2 span { color: #F60; }
 .text-info{ color:#F60; padding-left:10px; }
 .label-info{ color:#F60; background-color: #fff; text-shadow:none; font: 14px/1.7em 'Open Sans', arial, sans-serif;
 			padding:0; font-weight:normal; }
+
+.technical-skills-tablehead {
+	font-weight:bold;
+}
+table {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 14px;
+	letter-spacing: 0.1em;
+}
+.accordion-heading {
+	margin:5px;
+}
